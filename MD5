@@ -1,0 +1,13 @@
+89da2e75cc0572723b412ecda8537b72 *DESCRIPTION
+4f625bbc1a3da61b404ad5d273c2d4e7 *NAMESPACE
+8116f69a2415979c7e014da5c0c06c90 *R/doc_package.R
+b404c149978477d32f21e424886f45d4 *R/gen_llosa.R
+b2a8b7964d6bf9f648d9ae9174cdf1d2 *R/onAttach.R
+580ecf9c0ad64d03793130b55b1a9210 *R/utils.R
+ee8b819e7e970cd1fccb141b761fe43e *README.md
+277ca1f3f4c86ae9601fb35106f28970 *man/Llosa.Rd
+d39089b4dd6ffc43905051f659af3088 *man/gen_avis.Rd
+b81cca06def3e58d29dd8dfd5bb8fa0b *man/gen_llosa.Rd
+ebaf0b2789f22eb64e591a91be63e97b *man/prepare_base.Rd
+1e3685a79a382ae02b152282ce6806a5 *man/reexports.Rd
+d6382b886b8d0b76be58eeb9bf17d757 *man/tetraclasse.Rd
